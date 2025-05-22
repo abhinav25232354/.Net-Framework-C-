@@ -1,0 +1,8 @@
+F:\.Net Framework C#\Exercise_2 - Finding Square Root of a Number\Exercise_2 - Finding Square Root of a Number\bin\Debug\Exercise_2 - Finding Square Root of a Number.exe.config
+F:\.Net Framework C#\Exercise_2 - Finding Square Root of a Number\Exercise_2 - Finding Square Root of a Number\bin\Debug\Exercise_2 - Finding Square Root of a Number.exe
+F:\.Net Framework C#\Exercise_2 - Finding Square Root of a Number\Exercise_2 - Finding Square Root of a Number\bin\Debug\Exercise_2 - Finding Square Root of a Number.pdb
+F:\.Net Framework C#\Exercise_2 - Finding Square Root of a Number\Exercise_2 - Finding Square Root of a Number\obj\Debug\Exercise_2 - Finding Square Root of a Number.csproj.AssemblyReference.cache
+F:\.Net Framework C#\Exercise_2 - Finding Square Root of a Number\Exercise_2 - Finding Square Root of a Number\obj\Debug\Exercise_2 - Finding Square Root of a Number.csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\Exercise_2 - Finding Square Root of a Number\Exercise_2 - Finding Square Root of a Number\obj\Debug\Exercise_2 - Finding Square Root of a Number.exe
+F:\.Net Framework C#\Exercise_2 - Finding Square Root of a Number\Exercise_2 - Finding Square Root of a Number\obj\Debug\Exercise_2 - Finding Square Root of a Number.pdb
+F:\.Net Framework C#\Exercise_2 - Finding Square Root of a Number\Exercise_2 - Finding Square Root of a Number\obj\Debug\Exercise_2 - Finding Square Root of a Number.exe.config

@@ -1,0 +1,8 @@
+F:\.Net Framework C#\Exercise_1 - Calculator Using Input and Conditionals\Exercise_1 - Calculator Using Input and Conditionals\bin\Debug\Exercise_1 - Calculator Using Input and Conditionals.exe.config
+F:\.Net Framework C#\Exercise_1 - Calculator Using Input and Conditionals\Exercise_1 - Calculator Using Input and Conditionals\bin\Debug\Exercise_1 - Calculator Using Input and Conditionals.exe
+F:\.Net Framework C#\Exercise_1 - Calculator Using Input and Conditionals\Exercise_1 - Calculator Using Input and Conditionals\bin\Debug\Exercise_1 - Calculator Using Input and Conditionals.pdb
+F:\.Net Framework C#\Exercise_1 - Calculator Using Input and Conditionals\Exercise_1 - Calculator Using Input and Conditionals\obj\Debug\Exercise_1 - Calculator Using Input and Conditionals.csproj.AssemblyReference.cache
+F:\.Net Framework C#\Exercise_1 - Calculator Using Input and Conditionals\Exercise_1 - Calculator Using Input and Conditionals\obj\Debug\Exercise_1 - Calculator Using Input and Conditionals.csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\Exercise_1 - Calculator Using Input and Conditionals\Exercise_1 - Calculator Using Input and Conditionals\obj\Debug\Exercise_1 - Calculator Using Input and Conditionals.exe
+F:\.Net Framework C#\Exercise_1 - Calculator Using Input and Conditionals\Exercise_1 - Calculator Using Input and Conditionals\obj\Debug\Exercise_1 - Calculator Using Input and Conditionals.pdb
+F:\.Net Framework C#\Exercise_1 - Calculator Using Input and Conditionals\Exercise_1 - Calculator Using Input and Conditionals\obj\Debug\Exercise_1 - Calculator Using Input and Conditionals.exe.config

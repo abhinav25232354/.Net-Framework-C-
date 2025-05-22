@@ -1,0 +1,8 @@
+F:\.Net Framework C#\Exercise_3 - Unit Convertor\Exercise_3 - Unit Convertor\bin\Debug\Exercise_3 - Unit Convertor.exe.config
+F:\.Net Framework C#\Exercise_3 - Unit Convertor\Exercise_3 - Unit Convertor\bin\Debug\Exercise_3 - Unit Convertor.exe
+F:\.Net Framework C#\Exercise_3 - Unit Convertor\Exercise_3 - Unit Convertor\bin\Debug\Exercise_3 - Unit Convertor.pdb
+F:\.Net Framework C#\Exercise_3 - Unit Convertor\Exercise_3 - Unit Convertor\obj\Debug\Exercise_3 - Unit Convertor.csproj.AssemblyReference.cache
+F:\.Net Framework C#\Exercise_3 - Unit Convertor\Exercise_3 - Unit Convertor\obj\Debug\Exercise_3 - Unit Convertor.csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\Exercise_3 - Unit Convertor\Exercise_3 - Unit Convertor\obj\Debug\Exercise_3 - Unit Convertor.exe
+F:\.Net Framework C#\Exercise_3 - Unit Convertor\Exercise_3 - Unit Convertor\obj\Debug\Exercise_3 - Unit Convertor.pdb
+F:\.Net Framework C#\Exercise_3 - Unit Convertor\Exercise_3 - Unit Convertor\obj\Debug\Exercise_3 - Unit Convertor.exe.config
