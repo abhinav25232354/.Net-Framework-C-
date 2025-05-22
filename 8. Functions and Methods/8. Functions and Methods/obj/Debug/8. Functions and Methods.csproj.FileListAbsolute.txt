@@ -1,0 +1,7 @@
+F:\.Net Framework C#\8. Functions and Methods\8. Functions and Methods\bin\Debug\_8.Functions_and_Methods.exe.config
+F:\.Net Framework C#\8. Functions and Methods\8. Functions and Methods\bin\Debug\_8.Functions_and_Methods.exe
+F:\.Net Framework C#\8. Functions and Methods\8. Functions and Methods\bin\Debug\_8.Functions_and_Methods.pdb
+F:\.Net Framework C#\8. Functions and Methods\8. Functions and Methods\obj\Debug\8. Functions and Methods.csproj.AssemblyReference.cache
+F:\.Net Framework C#\8. Functions and Methods\8. Functions and Methods\obj\Debug\8. Functions and Methods.csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\8. Functions and Methods\8. Functions and Methods\obj\Debug\_8.Functions_and_Methods.exe
+F:\.Net Framework C#\8. Functions and Methods\8. Functions and Methods\obj\Debug\_8.Functions_and_Methods.pdb

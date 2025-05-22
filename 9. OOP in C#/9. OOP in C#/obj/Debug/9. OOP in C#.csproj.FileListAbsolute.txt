@@ -1,0 +1,8 @@
+F:\.Net Framework C#\9. OOP in C#\9. OOP in C#\bin\Debug\_9.OOP_in_C_.exe.config
+F:\.Net Framework C#\9. OOP in C#\9. OOP in C#\bin\Debug\_9.OOP_in_C_.exe
+F:\.Net Framework C#\9. OOP in C#\9. OOP in C#\bin\Debug\_9.OOP_in_C_.pdb
+F:\.Net Framework C#\9. OOP in C#\9. OOP in C#\obj\Debug\9. OOP in C#.csproj.AssemblyReference.cache
+F:\.Net Framework C#\9. OOP in C#\9. OOP in C#\obj\Debug\9. OOP in C#.csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\9. OOP in C#\9. OOP in C#\obj\Debug\_9.OOP_in_C_.exe
+F:\.Net Framework C#\9. OOP in C#\9. OOP in C#\obj\Debug\_9.OOP_in_C_.pdb
+F:\.Net Framework C#\9. OOP in C#\9. OOP in C#\obj\Debug\_9.OOP_in_C_.exe.config
