@@ -1,0 +1,7 @@
+F:\.Net Framework C#\3. Typecasting (Implicit and Explicit Typecasting)\3. Typecasting (Implicit and Explicit Typecasting)\bin\Debug\_3.Typecasting__Implicit_and_Explicit_Typecasting_.exe.config
+F:\.Net Framework C#\3. Typecasting (Implicit and Explicit Typecasting)\3. Typecasting (Implicit and Explicit Typecasting)\bin\Debug\_3.Typecasting__Implicit_and_Explicit_Typecasting_.exe
+F:\.Net Framework C#\3. Typecasting (Implicit and Explicit Typecasting)\3. Typecasting (Implicit and Explicit Typecasting)\bin\Debug\_3.Typecasting__Implicit_and_Explicit_Typecasting_.pdb
+F:\.Net Framework C#\3. Typecasting (Implicit and Explicit Typecasting)\3. Typecasting (Implicit and Explicit Typecasting)\obj\Debug\3. Typecasting (Implicit and Explicit Typecasting).csproj.AssemblyReference.cache
+F:\.Net Framework C#\3. Typecasting (Implicit and Explicit Typecasting)\3. Typecasting (Implicit and Explicit Typecasting)\obj\Debug\3. Typecasting (Implicit and Explicit Typecasting).csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\3. Typecasting (Implicit and Explicit Typecasting)\3. Typecasting (Implicit and Explicit Typecasting)\obj\Debug\_3.Typecasting__Implicit_and_Explicit_Typecasting_.exe
+F:\.Net Framework C#\3. Typecasting (Implicit and Explicit Typecasting)\3. Typecasting (Implicit and Explicit Typecasting)\obj\Debug\_3.Typecasting__Implicit_and_Explicit_Typecasting_.pdb

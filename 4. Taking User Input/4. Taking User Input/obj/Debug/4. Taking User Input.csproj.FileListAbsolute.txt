@@ -1,0 +1,7 @@
+F:\.Net Framework C#\4. Taking User Input\4. Taking User Input\bin\Debug\_4.Taking_User_Input.exe.config
+F:\.Net Framework C#\4. Taking User Input\4. Taking User Input\bin\Debug\_4.Taking_User_Input.exe
+F:\.Net Framework C#\4. Taking User Input\4. Taking User Input\bin\Debug\_4.Taking_User_Input.pdb
+F:\.Net Framework C#\4. Taking User Input\4. Taking User Input\obj\Debug\4. Taking User Input.csproj.AssemblyReference.cache
+F:\.Net Framework C#\4. Taking User Input\4. Taking User Input\obj\Debug\4. Taking User Input.csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\4. Taking User Input\4. Taking User Input\obj\Debug\_4.Taking_User_Input.exe
+F:\.Net Framework C#\4. Taking User Input\4. Taking User Input\obj\Debug\_4.Taking_User_Input.pdb
