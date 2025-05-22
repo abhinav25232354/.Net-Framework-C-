@@ -1,0 +1,8 @@
+F:\.Net Framework C#\2. Variables and datatypes in C#\2. Variables and datatypes in C#\bin\Debug\_2.Variables_and_datatypes_in_C_.exe.config
+F:\.Net Framework C#\2. Variables and datatypes in C#\2. Variables and datatypes in C#\bin\Debug\_2.Variables_and_datatypes_in_C_.exe
+F:\.Net Framework C#\2. Variables and datatypes in C#\2. Variables and datatypes in C#\bin\Debug\_2.Variables_and_datatypes_in_C_.pdb
+F:\.Net Framework C#\2. Variables and datatypes in C#\2. Variables and datatypes in C#\obj\Debug\2. Variables and datatypes in C#.csproj.AssemblyReference.cache
+F:\.Net Framework C#\2. Variables and datatypes in C#\2. Variables and datatypes in C#\obj\Debug\2. Variables and datatypes in C#.csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\2. Variables and datatypes in C#\2. Variables and datatypes in C#\obj\Debug\_2.Variables_and_datatypes_in_C_.exe
+F:\.Net Framework C#\2. Variables and datatypes in C#\2. Variables and datatypes in C#\obj\Debug\_2.Variables_and_datatypes_in_C_.pdb
+F:\.Net Framework C#\2. Variables and datatypes in C#\2. Variables and datatypes in C#\obj\Debug\_2.Variables_and_datatypes_in_C_.exe.config
