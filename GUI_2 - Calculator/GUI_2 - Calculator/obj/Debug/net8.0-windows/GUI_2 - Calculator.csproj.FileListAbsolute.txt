@@ -1,0 +1,17 @@
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\bin\Debug\net8.0-windows\GUI_2 - Calculator.exe
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\bin\Debug\net8.0-windows\GUI_2 - Calculator.deps.json
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\bin\Debug\net8.0-windows\GUI_2 - Calculator.runtimeconfig.json
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\bin\Debug\net8.0-windows\GUI_2 - Calculator.dll
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\bin\Debug\net8.0-windows\GUI_2 - Calculator.pdb
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2___Calculator.Form1.resources
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2 - Calculator.csproj.GenerateResource.cache
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2 - Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2 - Calculator.AssemblyInfoInputs.cache
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2 - Calculator.AssemblyInfo.cs
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2 - Calculator.csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2 - Calculator.dll
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\refint\GUI_2 - Calculator.dll
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2 - Calculator.pdb
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2 - Calculator.genruntimeconfig.cache
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\ref\GUI_2 - Calculator.dll
+F:\.Net Framework C#\GUI_2 - Calculator\GUI_2 - Calculator\obj\Debug\net8.0-windows\GUI_2___Calculator.Properties.Resources.resources

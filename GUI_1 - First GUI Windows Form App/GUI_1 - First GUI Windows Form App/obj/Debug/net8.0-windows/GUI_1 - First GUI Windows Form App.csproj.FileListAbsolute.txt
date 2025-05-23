@@ -1,0 +1,16 @@
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\GUI_1___First_GUI_Windows_Form_App.Form1.resources
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.csproj.GenerateResource.cache
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.AssemblyInfoInputs.cache
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.AssemblyInfo.cs
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.csproj.CoreCompileInputs.cache
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\bin\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.exe
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\bin\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.deps.json
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\bin\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.runtimeconfig.json
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\bin\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.dll
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\bin\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.pdb
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.dll
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\refint\GUI_1 - First GUI Windows Form App.dll
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.pdb
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\GUI_1 - First GUI Windows Form App.genruntimeconfig.cache
+F:\.Net Framework C#\GUI_1 - First GUI Windows Form App\GUI_1 - First GUI Windows Form App\obj\Debug\net8.0-windows\ref\GUI_1 - First GUI Windows Form App.dll
